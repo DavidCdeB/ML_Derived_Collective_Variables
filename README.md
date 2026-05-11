@@ -1,6 +1,6 @@
 # Machine Learning Derived Collective Variables
 
-git clone of the package:
+git clone the package:
 
 ```
 git clone https://github.com/luigibonati/mlcolvar.git
