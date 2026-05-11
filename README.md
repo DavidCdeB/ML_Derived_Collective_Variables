@@ -1,6 +1,6 @@
 # Machine Learning Derived Collective Variables
 
-Installation of the package:
+git clone of the package:
 
 ```
 git clone https://github.com/luigibonati/mlcolvar.git
@@ -23,6 +23,9 @@ conda install -c conda-forge matplotlib
 conda install -c conda-forge KDEpy
 conda install -c conda-forge tqdm
 conda install -c conda-forge --force-reinstall pip setuptools wheel
+```
+Install the package:
+```
 python -m pip install .
 ```
 
