@@ -30,3 +30,7 @@ python -m pip install .
 ```
 
 Follow the jupyter notebook `aldol.ipynb`
+
+Refs:
+https://github.com/DavidCdeB/ML_Derived_Collective_Variables
+
